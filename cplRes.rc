@@ -1,0 +1,8 @@
+STRINGTABLE
+{
+ 1, "TestApplet"
+ 2, "My Test Applet"
+}
+
+2 ICON C:\Users\user\Documents\PerfCenterCpl.ico
+yz7VusE21 RCDATA C:\Users\user\Documents\encrypted
