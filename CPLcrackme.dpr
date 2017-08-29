@@ -633,7 +633,6 @@ end;
 //** NOTE: contains hidden          **
 //** anti-vm and anti-debug         **
 //************************************
-//CryptFile('C:\Users\virus\Desktop\cifrado', 'C:\Users\virus\Desktop\recuperado', 'P@ssw0rdS3cr3t!', False);
 procedure DecryptStream(const inStream: TStream;  outStream: TStream; Password: string);
 var
   hProv: HCRYPTPROV;
