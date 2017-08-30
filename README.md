@@ -1,6 +1,6 @@
 # CPL crackme challenge
 
-The challenge consists in reversing a .cpl file to make it download a .exe with a flag. I coded this in october of 2015, but changed some strings and uploaded in 2017.
+The challenge consists in reversing a *.cpl* file to make it download a *.exe* with a flag. I coded this in october of 2015, but changed some strings and uploaded in 2017.
 
 CPL files are Windows Control Panel applets. Basically they are DLLs but they can be executed on double click, which made them very attractive to some malware authors.
 
